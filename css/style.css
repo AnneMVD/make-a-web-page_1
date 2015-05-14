@@ -1,0 +1,56 @@
+/* This is Notestyle.css but I don't know how to give the name to it in CodePen so don't forget to save it as this name if needed. */
+
+body {
+  background-color: #E8C8D9;
+	padding: 20px 10px;
+  border-radius: 22px;
+	font-family: Arial;
+	max-width: 2000px;
+	margin: 0 auto; 
+	font-size: 1em;
+  }
+
+.section {  
+  background-color: #E6DCE1;
+	padding: 30px;
+	margin: 10px;
+	border-radius: 22px;
+  max-width: 2000px;
+	color: black; 
+}
+
+h1 {
+	text-align: center;
+	color: #EB1085;
+}
+
+p{
+  margin: 10px 0;
+}
+
+h2 {
+  background: repeating-linear-gradient(
+  to right,
+  #E8D1DD,
+  #E8D1DD 10px,
+  #E6DCE1 10px,
+  #E6DCE1 20px
+);
+ 
+  padding: 4px;
+	margin: 10px auto;
+  max-width: 2000px;
+  border-radius: 22px;
+  text-align: center;
+  color: #000000
+}
+
+.tiny-text {
+  text-align: center;
+  font-style: italic;
+}
+
+img {
+	padding: 1px;
+  margin: 0 auto;
+}
